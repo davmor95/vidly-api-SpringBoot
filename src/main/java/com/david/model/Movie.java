@@ -79,7 +79,7 @@ public class Movie implements Serializable {
                 ", title='" + title + '\'' +
                 ", numberInStock=" + numberInStock +
                 ", dailyRentalRate=" + dailyRentalRate +
-                ", genres=" + genre +
+                ", genre=" + genre +
                 '}';
     }
 }
